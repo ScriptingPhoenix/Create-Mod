@@ -1,0 +1,8 @@
+{
+  "modid": "sm",
+  "name": "Sample Mod",
+  "version": "1.0.1",
+  "author": "Firebird",
+  "download": "google.com",
+  "main": "me.firebird.samplemod.Mod"
+}
